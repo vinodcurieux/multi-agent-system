@@ -1,0 +1,15 @@
+langgraph
+langchain-openai
+langchain-community
+duckduckgo-search
+beautifulsoup4
+requests
+python-dotenv
+tiktoken
+pandas
+chromadb
+sentence_transformers
+scikit-learn
+seaborn
+matplotlib
+datasets
