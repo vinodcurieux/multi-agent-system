@@ -35,6 +35,7 @@ graph TD;
     Supervisor --> Claims[Claims Agent]
     Supervisor --> General[General Help Agent]
     Supervisor --> Human[Human Escalation]
+    Supervisor --> Final[Final Answer Agent]
     
     Policy --> Database[(SQLite DB)]
     Billing --> Database
@@ -46,7 +47,8 @@ graph TD;
     Claims --> Supervisor
     General --> Supervisor
     
-    Supervisor --> End[End]
+    Supervisor --> Final
+    Final --> End[End]
     Human --> End
 ```
 
