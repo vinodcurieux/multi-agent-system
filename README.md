@@ -47,7 +47,6 @@ graph TD;
     Claims --> Supervisor
     General --> Supervisor
     
-    Supervisor --> Final
     Final --> End[End]
     Human --> End
 ```
