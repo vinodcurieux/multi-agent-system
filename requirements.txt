@@ -13,3 +13,5 @@ scikit-learn
 seaborn
 matplotlib
 datasets
+arize-phoenix-otel
+openinference-instrumentation-openai
