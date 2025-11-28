@@ -1,0 +1,113 @@
+2025-11-25 16:41:44,297 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-25 16:41:44,301 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1.12s.
+2025-11-25 16:41:51,075 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-25 16:41:51,077 - __main__ - INFO - 🗣️ Asking user for input: Please provide your policy number or customer ID.
+2025-11-25 16:43:54,046 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1.20s.
+2025-11-25 16:44:01,300 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-25 16:47:39,395 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-25 16:47:39,402 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1.09s.
+2025-11-25 16:47:40,530 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1.90s.
+2025-11-25 16:47:47,885 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-25 16:48:14,256 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1.04s.
+2025-11-25 16:48:35,377 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-25 16:48:35,382 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1.16s.
+2025-11-25 16:48:43,303 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-25 16:48:43,306 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1.14s.
+2025-11-25 16:48:51,302 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-25 16:48:51,306 - __main__ - INFO - 🔍 Retrieving FAQs from vector database
+2025-11-25 16:48:56,748 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1.03s.
+2025-11-25 18:01:17,269 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-25 18:01:17,324 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 0.97s.
+2025-11-25 18:01:20,166 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 3.61s.
+2025-11-25 18:01:23,791 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-25 18:01:23,794 - __main__ - INFO - 🗣️ Asking user for input: Please provide your policy number.
+2025-11-25 18:01:23,833 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1.17s.
+2025-11-25 18:01:30,496 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-25 18:01:41,997 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-25 18:01:42,003 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1.01s.
+2025-11-25 18:01:47,367 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-25 18:01:47,369 - __main__ - INFO - 🗣️ Asking user for input: Please provide your policy number.
+2025-11-25 18:07:11,303 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 0.87s.
+2025-11-25 18:07:18,003 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-25 18:07:23,889 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-25 18:07:23,895 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1.00s.
+2025-11-25 18:07:30,815 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-25 18:07:30,818 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1.08s.
+2025-11-25 18:07:37,727 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-25 18:07:40,599 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-25 18:07:40,605 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 0.86s.
+2025-11-25 18:07:47,469 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-25 18:07:47,511 - __main__ - INFO - 🔍 Fetching billing info - Policy: POL000004, Customer: None
+2025-11-25 18:07:47,632 - __main__ - INFO - ✅ Billing info found
+2025-11-25 18:07:47,634 - __main__ - INFO - 🔍 Fetching payment history for policy: POL000004
+2025-11-25 18:07:47,684 - __main__ - INFO - ✅ Found 1 payment records
+2025-11-25 18:07:53,734 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-25 18:07:53,738 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 0.80s.
+2025-11-25 18:08:01,036 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-25 18:08:01,040 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1.11s.
+2025-11-25 18:08:08,503 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-25 18:08:16,549 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-25 18:08:16,553 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1.03s.
+2025-11-25 18:08:23,059 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-25 18:08:23,063 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 0.93s.
+2025-11-25 18:08:30,757 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-25 18:08:30,761 - __main__ - INFO - 🎯 Final answer agent started
+2025-11-25 18:08:36,062 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-25 18:08:36,066 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1.04s.
+2025-11-25 18:08:43,010 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-25 18:08:43,013 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 0.95s.
+2025-11-25 18:08:49,971 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-25 18:09:30,461 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-25 18:09:30,466 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1.10s.
+2025-11-25 18:09:37,149 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-25 18:09:37,152 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1.10s.
+2025-11-25 18:09:40,587 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 3.69s.
+2025-11-25 18:09:43,843 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-25 18:09:43,847 - __main__ - INFO - 🔍 Retrieving FAQs from vector database
+2025-11-25 18:10:01,315 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-25 18:10:01,320 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1.20s.
+2025-11-25 18:10:08,481 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-25 18:10:08,484 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1.10s.
+2025-11-25 18:10:14,831 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-25 18:10:22,847 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-25 18:10:22,852 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1.17s.
+2025-11-25 18:10:29,965 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-25 18:10:29,970 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1.14s.
+2025-11-25 18:10:37,061 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-25 18:10:37,065 - __main__ - INFO - 🎯 Final answer agent started
+2025-11-25 18:10:46,365 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-25 18:10:46,371 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1.00s.
+2025-11-25 18:10:51,772 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-25 18:10:51,798 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1.05s.
+2025-11-25 18:10:58,220 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-25 18:12:17,558 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-25 18:12:17,563 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1.07s.
+2025-11-25 18:12:20,691 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 4.67s.
+2025-11-25 18:12:24,878 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-25 18:12:24,882 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1.09s.
+2025-11-25 18:12:32,719 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-25 18:12:32,723 - __main__ - WARNING - Escalation triggered - State: {'user_input': 'I want to talk to human executive', 'conversation_history': 'User: I want to talk to human executive\nAssistant: Routing to human_escalation_agent for: User requests to speak with a human executive. No policy number, customer ID, or claim ID provided in the conversation.', 'n_iteration': 1, 'user_intent': '', 'claim_id': '', 'next_agent': 'human_escalation_agent', 'task': 'User requests to speak with a human executive. No policy number, customer ID, or claim ID provided in the conversation.', 'justification': 'User explicitly asked to talk to a human executive, which is a direct escalation. No additional information is required to route to human_escalation_agent.', 'extracted_entities': {}, 'database_lookup_result': {}, 'requires_human_escalation': False, 'escalation_reason': '', 'billing_amount': None, 'payment_method': None, 'billing_frequency': None, 'invoice_date': None, 'final_answer': ''}
+2025-11-25 18:12:37,947 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-25 18:12:37,952 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1.01s.
+2025-11-25 18:12:40,609 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 4.50s.
+2025-11-25 18:12:45,112 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-25 18:12:45,124 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1.05s.
+2025-11-25 18:12:53,233 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-27 19:03:38,481 - opentelemetry.trace - WARNING - Overriding of current TracerProvider is not allowed
+2025-11-27 19:03:38,494 - opentelemetry.instrumentation.instrumentor - WARNING - Attempting to instrument while already instrumented
+2025-11-27 19:03:50,040 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 19:03:50,066 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1.18s.
+2025-11-27 19:03:56,813 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-27 19:03:56,814 - tools - INFO - 🗣️ Asking user for input: Can you provide your policy number or customer ID?
+2025-11-27 19:04:12,953 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 0.81s.
+2025-11-27 19:04:19,538 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-27 19:04:24,793 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 19:04:24,796 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1.14s.
+2025-11-27 19:04:30,591 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-27 19:04:30,592 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1.17s.
+2025-11-27 19:04:38,038 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-27 19:04:38,051 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1.09s.
+2025-11-27 19:04:41,481 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 4.67s.
+2025-11-27 19:04:46,172 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE
+2025-11-27 19:04:46,187 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1.07s.
+2025-11-27 19:04:53,963 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export traces to localhost:4317, error code: StatusCode.UNAVAILABLE

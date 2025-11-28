@@ -12,6 +12,7 @@ def create_trace_agent(endpoint):
         endpoint=endpoint,
         auto_instrument=True
     )
+    global tracer
     tracer = tracer_provider.get_tracer(__name__)
 
 # --- Decorator ---

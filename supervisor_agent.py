@@ -1,6 +1,10 @@
 import prompts
 import prompt_monitoring
+from prompt_monitoring import trace_agent
 import tools
+import json
+from prompts import SUPERVISOR_PROMPT
+from tools import ask_user
 
 @trace_agent
 def supervisor_agent(state):
@@ -88,7 +92,8 @@ def supervisor_agent(state):
     ]
 
     print("🤖 Calling LLM for supervisor decision...")
-    response = client.chat.completions.create(
+    import agent
+    response = agent.client.chat.completions.create(
         model="gpt-5-mini",
         messages=[{"role": "system", "content": prompt}],
         tools=tools,

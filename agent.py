@@ -22,6 +22,13 @@ from typing import TypedDict, List, Annotated, Dict, Any, Optional
 from langgraph.graph import add_messages
 from datetime import datetime
 from prompt_monitoring import create_trace_agent
+from supervisor_agent import supervisor_agent
+from policy_agent_node import policy_agent_node
+from billing_agent_node import billing_agent_node
+from claims_agent_node import claims_agent_node
+from general_help_agent_node import general_help_agent_node
+from human_escalation_node import human_escalation_node
+from final_answer_agent import final_answer_agent
 
 client = None
 
@@ -195,6 +202,8 @@ def create_langgraph_app():
 
     return workflow.compile()
 
+app = None
+
 def init_app():
     # ✅ Load environment variables
     load_dotenv()
@@ -217,6 +226,7 @@ def init_app():
     # print(response)
 
     # Create app
+    global app
     app = create_langgraph_app()
 
 # === Display the Graph ===

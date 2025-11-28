@@ -1,5 +1,6 @@
 import prompts
 import prompt_monitoring
+from prompt_monitoring import trace_agent
 import tools
 
 @trace_agent

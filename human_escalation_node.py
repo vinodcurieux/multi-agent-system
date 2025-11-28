@@ -1,5 +1,6 @@
-import prompts
+from prompts import HUMAN_ESCALATION_PROMPT
 import prompt_monitoring
+from prompt_monitoring import trace_agent
 import tools
 
 @trace_agent
